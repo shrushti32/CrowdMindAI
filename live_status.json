@@ -1,0 +1,8 @@
+{
+    "risk_score": 5,
+    "risk_level": "LOW RISK",
+    "objects": [
+        "person"
+    ],
+    "people_count": 1
+}
